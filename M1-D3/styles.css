@@ -1,0 +1,145 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eaeded;
+  display: inline-block;
+  width: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.logo-div {
+  background-color: #222f3e;
+  padding-top: 10px;
+
+  color: #666564;
+}
+
+.logo {
+  margin-left: 10px;
+}
+
+.todays-deals {
+  background-color: #354758;
+  color: rgb(235, 233, 233);
+  word-spacing: 10px;
+  padding: 10px;
+}
+
+.holidays {
+  color: #f0dbcd;
+  background-color: #f56600;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 1.2em;
+  margin-left: 30px;
+  margin-right: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bg-image {
+  background-image: url(./assets/bg-image.png);
+  background-size: cover;
+  color: white;
+  font-size: 2em;
+  padding-bottom: 5px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.holiday-guide {
+  font-size: 1.4em;
+  padding-top: 50px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.gift {
+  font-size: 0.7em;
+  font-weight: bold;
+  margin-bottom: 40px;
+}
+
+.container {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  background-color: white;
+  padding: 30px;
+  padding-top: 10px;
+}
+
+.blocks {
+  display: inline-flex;
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.advert {
+  border-radius: 5%;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.803);
+}
+
+.perf-gift {
+  font-size: 1.3em;
+  font-weight: bolder;
+}
+
+a {
+  font-size: 0.8em;
+  color: blue;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.vr-headset {
+  background-image: url(./assets/img_9.png);
+  background-size: cover;
+  height: 500px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.headset {
+  height: 500px;
+  width: 100%;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.play {
+  font-size: 1em;
+  font-weight: bolder;
+}
+
+.stereo {
+  background-image: url(./assets/img_10.png);
+  background-size: cover;
+  height: 500px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.back-to-top {
+  background-color: #354758;
+  color: white;
+  text-decoration: underline;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #222f3e;
+}
+
+.logo2 {
+  background-color: #222f3e;
+  text-align: center;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
